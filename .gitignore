@@ -1,0 +1,23 @@
+# Maven
+target/
+.mvn/repository/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Project files
+*.iml
+*.iws
+*.ipr
